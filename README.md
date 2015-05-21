@@ -12,6 +12,7 @@ This is an early version.
 
 ## Change Log
 
-|Versoin|Release Date|Change Log|
+|Version|Release Date|Change Log|
+|---|---|---|
 |0.1|2015.05.21|Initial release|
 
